@@ -1,3 +1,4 @@
+<pre>
 # DATA DICTIONARY - Human Activity Recognition Using Smartphones Dataset
 
 activity
@@ -50,7 +51,7 @@ tBodyGyroJerk-mean()-Z
 tBodyGyroJerk-std()-X
 tBodyGyroJerk-std()-Y
 tBodyGyroJerk-std()-Z
-    The body angular velocity derived in time to obtain Jerk signals (mean and standard deviation in X, Y, Z direction) (
+    The body angular velocity derived in time to obtain Jerk signals (mean and standard deviation in X, Y, Z direction) (second)
 
 tBodyAccMag-mean()
 tBodyAccMag-std()
@@ -66,7 +67,7 @@ tBodyAccJerkMag-std()
 
 tBodyGyroMag-mean()
 tBodyGyroMag-std()
-    Average and standard deviation of body angular velocity signals (second)
+    Average and standard deviation of magnitude of body angular velocity signals (second)
 	
 tBodyGyroJerkMag-mean()
 tBodyGyroJerkMag-std()
@@ -112,5 +113,5 @@ fBodyBodyGyroJerkMag-mean()
 fBodyBodyGyroJerkMag-std()
     Average and standard deviation of FFT of magnitude of body angular velocity jerk signals (Hz)
 
-	
 See also features_info.txt in original dataset for further detail.
+</pre>
